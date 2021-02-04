@@ -7,3 +7,5 @@ esto es el segundo cambio owo
 Despues del checkout ahora viene la parte donde
 meto un cambio pero luego lo quiero revertir y traerlo de vuelta al staging
 para luego solo subirlo otra vez siiuuuuuuuuuuuuuuuuuu
+
+segunda vuelta x2
