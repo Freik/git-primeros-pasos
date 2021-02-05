@@ -1,2 +1,2 @@
 # git-primeros-pasos
-Estoy aprendiendo a usar git y github
+Codigo random para aprender a usar git y github
