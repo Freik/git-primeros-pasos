@@ -1,5 +1,2 @@
-hola
-esto es una prueba chidori
-texto 3
-
-texto 4
+Hola!
+Esto es una prueba de control de versiones de git.
